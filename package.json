@@ -1,6 +1,7 @@
 {
   "name": "cc-sw-precache",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "tag":"5.2.0.2",
   "description": "Generates a service worker to cache your local App Shell resources.",
   "author": {
     "name": "Rhymedys",
